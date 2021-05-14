@@ -7,3 +7,8 @@ h1 {
   margin-left: 20px;
   font-family: "Lucida Console", "Courier New", monospace;
 }
+
+p {
+  color: green;
+  font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+}
