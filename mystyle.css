@@ -8,7 +8,8 @@ h1 {
   font-family: "Lucida Console", "Courier New", monospace;
 }
 
-p {
+p1 {
   color: green;
   font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+  p1.dotted {border-style: dotted;}
 }
